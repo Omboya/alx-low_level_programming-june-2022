@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Prints the alphabetic
@@ -14,4 +14,4 @@ int main(void)
 
 	putchar('\n');
 	return (0);
-}gcc 2-print_alphabet.c
+}
